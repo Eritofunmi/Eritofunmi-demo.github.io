@@ -1,0 +1,64 @@
+/* Add all your styles here */
+*{
+ box-sizing: border-box;
+ margin: 0;
+ padding: 0;
+ display: ;
+ }
+body { background: fuchsia;}
+#one, #two, #three{
+  position: relative;
+  top: 50px;
+  left:25px;
+  margin: 0;
+  padding: 0;
+  display:flex;
+ }
+.container{
+  position: absolute;
+  background-color: blue ;
+  border: grove black 5px;
+  margin: 5px;
+  padding: 3px;
+  max-width: 290px;
+  border-radius: 1px 1px 25px 25px;
+  height: 420px;
+  }
+.screen{
+  background:  ;
+  border: ;
+  transform: 1.5s;
+  }
+iframe { scroll: none ; border: 3px inset brown; background: white; margin-left: 2px; position: relative;}
+.padd{
+  margin: 2px;
+  color: black;
+  background: white ;
+  border: solid white  2px;
+  border-radius: 10px;
+  width: 280px ;
+  position: relative;
+  }
+.btn{
+  border: solid black 5px;
+  float: left;
+  position: relative;
+  font-weight: 1000;
+  font-size: 20px;
+  width: 45px;
+  height: auto ;
+  text-align: center;
+  margin: 5px;
+  color: white ;
+  background-color: brown;
+  shadow:350deg rgba(70, 0, 0, 5.9);#not functioning
+  }  
+input { font-weight: 900; color: white;width: 240px; height: 40px; background: brown; border:solid black 5px;}
+  
+  
+  
+  
+  
+  
+  
+  
